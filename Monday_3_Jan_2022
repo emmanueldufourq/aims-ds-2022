@@ -1,0 +1,25 @@
+Monday
+
+2 hours of lecture material
+---------------------------
+1_Week6-Intro_Decision Trees.m4v (27 min)
+2_Week6-Information_Gain_1.m4v (26 min)
+3_Week6-Information_Gain_2.m4v (18 min)
+4_Week6-Numerical_Features.m4v (7 min)
+7_Week6-Inductive_Bias_Decision_Trees.m4v (3 min)
+8_Week6-Regression_Trees.m4v (24 min)
+9_Week6-Pruned_Trees.m4v (15 min)
+
+Practical
+---------
+
+1) See examples on how to create a decision tree classifier and a regression tree here: https://scikit-learn.org/stable/modules/tree.html
+2) We usually split a dataset into training and testing. In Python here an example on how to do this https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+3) Now create a decision tree classifier on this dataset. Induce the tree on training data and apply it to testing data
+4) Now create a regression tree classifier on this dataset. Induce the tree on training data and apply it to testing data
+
+
+Quiz
+----
+
+TBC

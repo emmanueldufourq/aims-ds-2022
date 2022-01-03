@@ -75,7 +75,13 @@ And this one, about generalisation: https://developers.google.com/machine-learni
 
 Finally to conclude, a small video explaining underfitting, overfitting and "just right" https://www.youtube.com/watch?v=jnAeZ8j0Ur0
 
+Feedback for Monday
+--------
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfLV5AVN2fJFVFHUn9UvAqHPrwP5rCm-2ov8t1tYm_ht_mWeA/viewform?usp=pp_url">Please provide feedback about Monday's session here</a>
+
+Post questions
+--------------
 Post any questions on slack! https://join.slack.com/t/aims-ds-2022/shared_invite/zt-10zb5irkl-0dCobPFnReQYPIwxaAuLUA
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfLV5AVN2fJFVFHUn9UvAqHPrwP5rCm-2ov8t1tYm_ht_mWeA/viewform?usp=pp_url">Please provide feedback about Monday's session here</a>
+
 

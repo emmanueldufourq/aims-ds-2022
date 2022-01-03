@@ -2,33 +2,45 @@ Monday Work Plan
 ----------------
 
 Link to all material: https://drive.google.com/drive/folders/1Hg3rlKvKRd9PRPTne0ehE24HaSArTgtU?usp=sharing
+
 The material for this lecture in the "Decision Tree" folder.
 
 Lecture Plan
 ------------
 
 14:00 to 15:30 watch lecture material (see below) 
+
 16:00 to 16:30 watch lecture material (see below)
+
 16:30 to 17:30 work on practical (see below)
+
 Evenings work on quiz (see below)
 
 Lecture Material
 ----------------
 2 hours of lecture material - watch video in this order below.
+
 (The slides are in the slides folder with the respective pdf name.)
 
 1_Week6-Intro_Decision Trees.m4v (27 min)
+
 2_Week6-Information_Gain_1.m4v (26 min)
+
 3_Week6-Information_Gain_2.m4v (18 min)
+
 4_Week6-Numerical_Features.m4v (7 min)
+
 7_Week6-Inductive_Bias_Decision_Trees.m4v (3 min)
+
 8_Week6-Regression_Trees.m4v (24 min)
+
 9_Week6-Pruned_Trees.m4v (15 min)
 
 Practical
 ---------
 
 1) We will work together on creating a decision tree classifier. (script: AIMS_DS_2022_DT_1.ipynb in the practical folder)
+
 2) You will then create a regression tree. (script: AIMS_DS_2022_RT_2.ipynb in the practical folder)
 
 Quiz

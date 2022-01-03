@@ -53,18 +53,26 @@ Reading Material (evenings)
 Read the following material. File in folder: Reading Material/Emmanuel Dufourq MSC Dissertation Final.pdf
 
 Section 3.1
+
 Section 3.2
+
 Section 3.3.1 to 3.3.6
+
 Section 3.4.1
+
 Section 3.5 to 3.5.4
 
 Here are some important and quick material on general data science principles related to the creationg of machine learning models (like decision trees). 
 The material below is quick to read so it should not take very long.
 
 Also read the material here: https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets
+
 And also here: https://developers.google.com/machine-learning/crash-course/training-and-test-sets/video-lecture
+
 A video on validation data: https://developers.google.com/machine-learning/crash-course/validation/video-lecture
+
 And this one, about generalisation: https://developers.google.com/machine-learning/crash-course/generalization/video-lecture
+
 Finally to conclude, a small video explaining underfitting, overfitting and "just right" https://www.youtube.com/watch?v=jnAeZ8j0Ur0
 
 Post any questions on slack! https://join.slack.com/t/aims-ds-2022/shared_invite/zt-10zb5irkl-0dCobPFnReQYPIwxaAuLUA

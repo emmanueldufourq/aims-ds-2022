@@ -48,6 +48,7 @@ Section 3.5 to 3.5.4
 
 Also read the material here: https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets
 And also here: https://developers.google.com/machine-learning/crash-course/training-and-test-sets/video-lecture
-And this last one: https://developers.google.com/machine-learning/crash-course/generalization/video-lecture
+A video on validation data: https://developers.google.com/machine-learning/crash-course/validation/video-lecture
+And this last one, about generalisation: https://developers.google.com/machine-learning/crash-course/generalization/video-lecture
 
 contact: dufourq@aims.ac.za

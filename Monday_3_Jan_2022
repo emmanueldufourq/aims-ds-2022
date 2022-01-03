@@ -22,10 +22,8 @@ Evenings work on quiz (see below)
 Practical
 ---------
 
-1) See examples on how to create a decision tree classifier and a regression tree here: https://scikit-learn.org/stable/modules/tree.html
-2) We usually split a dataset into training and testing. In Python here an example on how to do this https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
-3) Now create a decision tree classifier on this dataset. Induce the tree on training data and apply it to testing data
-4) Now create a regression tree classifier on this dataset. Induce the tree on training data and apply it to testing data
+1) We will work together on creating a decision tree classifier. (script: AIMS_DS_2022_DT_1.ipynb in the practical folder)
+2) You will then create a regression tree. (script: AIMS_DS_2022_RT_2.ipynb in the practical folder)
 
 
 Quiz

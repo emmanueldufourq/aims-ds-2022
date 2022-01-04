@@ -11,6 +11,7 @@ Error based learning quiz 2 due on TBC
 
 Practicals
 -----------
+
 Decision tree practical due on the 5th January at 23:59
 
 

@@ -44,7 +44,7 @@ Quiz
 
 Complete Monday's quiz - deadline 23:59 4th Jan 2021 https://docs.google.com/forms/d/e/1FAIpQLSenCKrMIFH62Mb24ym0cn16W71AHRzs87nsY6upDbgIzSR6ZQ/viewform?usp=pp_url
 
-Quiz on regression - TBC
+Quiz on K-NN algorithm
 
 Reading Material (evenings)
 -----------------

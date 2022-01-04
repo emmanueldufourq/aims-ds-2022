@@ -44,7 +44,7 @@ Quiz
 
 Complete Monday's quiz - deadline 23:59 4th Jan 2021 - https://docs.google.com/forms/d/e/1FAIpQLSenCKrMIFH62Mb24ym0cn16W71AHRzs87nsY6upDbgIzSR6ZQ/viewform?usp=pp_url
 
-Quiz on K-NN algorithm - deadline 23:59 5th Jan 2021 - Link TBC
+Quiz on K-NN algorithm - deadline 23:59 5th Jan 2021 - https://docs.google.com/forms/d/e/1FAIpQLScvp_fH0tVXA3O8D0qp8VsZPiqZRX05QjhFkHZBJOVbhAj7Rg/viewform?usp=pp_url
 
 Reading Material (evenings)
 -----------------

@@ -8,11 +8,11 @@ The material for this lecture in the "Decision Tree" and "Similarity Based Learn
 Lecture Plan
 ------------
 
-14:00 to 15:30 recap on decision tree practical
+14:00 to 15:00 recap on decision tree practical
 
-16:00 to 16:30 watch lecture material (see below)
+15:00 to 15:30 watch lecture material (see below)
 
-16:30 to 17:30 work on practical (see below)
+16:00 to 17:30 watch lecture material (see below)
 
 Evenings work on quiz (see below)
 

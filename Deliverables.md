@@ -1,4 +1,4 @@
-Quizes
+Quizzes
 -------
 Decision tree quiz due on the 4th January at 23:59
 

@@ -37,7 +37,7 @@ Practical
 
 1) Recap on decision tree classifier prac (script: AIMS_DS_2022_DT_1.ipynb in the practical folder)
 
-2) You will then create a regression tree. (script: AIMS_DS_2022_RT_2.ipynb in the practical folder)
+2) You will then create a regression tree. (script: AIMS_DS_2022_RT_2.ipynb in the practical folder) - deadline 23:59 5th Jan 2021
 
 Quiz
 ----

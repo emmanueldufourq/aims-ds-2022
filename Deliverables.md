@@ -19,6 +19,7 @@ Class test
 ----------
 
 Date: 25th January
+
 Contents: theory of decision trees, k-nn, all error based learning algorithms
 
 

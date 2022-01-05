@@ -15,20 +15,20 @@ Practicals
 Decision tree practical due on the 5th January at 23:59
 
 
-
-
 Class test
 ----------
 
-Date: TBC
-Contents: TBC
+Date: 25th January
+Contents: theory of decision trees, k-nn, all error based learning algorithms
 
 
 Assignment 1
 ------------
-TBC
+
+Due date: 16th Feb
 
 
 Assignment 2
 ------------
-TBC
+
+Due date: 23rd Feb

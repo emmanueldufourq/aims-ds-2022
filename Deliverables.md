@@ -2,7 +2,7 @@ Quizzes
 -------
 Decision tree quiz due on the 4th January at 23:59
 
-K-NN quiz due on the 6th January at 23:59
+K-NN quiz due on the 5th January at 23:59
 
 Error based learning quiz 1 due on the 6th January at 23:59
 
@@ -12,7 +12,7 @@ Error based learning quiz 2 due on TBC
 Practicals
 -----------
 
-Regression tree practical due on the 5th January at 23:59. Download and submit a .ipynb file as per instructions emailed to you.
+Regression tree practical due on the 6th January at 23:59. Download and submit a .ipynb file as per instructions emailed to you.
 
 Multivariate regression practical due on the X January at 23:59. Download and submit a .ipynb file as per instructions emailed to you.
 

@@ -2,7 +2,7 @@ Quizzes
 -------
 Decision tree quiz due on the 4th January at 23:59
 
-K-NN quiz due on the 5th January at 23:59
+K-NN quiz due on the 6th January at 23:59
 
 Error based learning quiz 1 due on the 6th January at 23:59
 

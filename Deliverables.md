@@ -12,8 +12,9 @@ Error based learning quiz 2 due on TBC
 Practicals
 -----------
 
-Decision tree practical due on the 5th January at 23:59
+Regression tree practical due on the 5th January at 23:59
 
+Download and submit a .ipynb file
 
 Class test
 ----------

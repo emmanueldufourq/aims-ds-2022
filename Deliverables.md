@@ -14,7 +14,7 @@ Practicals
 
 Regression tree practical due on the 5th January at 23:59
 
-Download and submit a .ipynb file
+Download and submit a .ipynb file to this email: [TBC]
 
 Class test
 ----------

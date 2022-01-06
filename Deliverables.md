@@ -31,7 +31,7 @@ You should be able to:
 * apply and know the K-NN algorithm
 * Determine weights when for a univariate, multivariate and logistic regression problem, compute error signals etc.
 * Understand the theory taught for neural networks - we will not examine the recurrent neural network material
-* The section on architecture selection, active learning will not be examined
+* The section on momentum, architecture selection, active learning will not be examined
 
 Assignment 1
 ------------

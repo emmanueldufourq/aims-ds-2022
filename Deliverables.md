@@ -23,7 +23,14 @@ Class test
 
 Date: 25th January
 
-Contents: theory of decision trees, k-nn, all error based learning algorithms
+Contents: theory of decision trees, k-nn, all error based learning algorithms, neural networks.
+
+You should be able to:
+
+* induce a decision tree and understand the information gain calculations
+* apply and know the K-NN algorithm
+* Determine weights when for a univariate, multivariate and logistic regression problem, compute error signals etc.
+* Understand the theory taught for neural networks - we will not examine the recurrent neural network material
 
 
 Assignment 1

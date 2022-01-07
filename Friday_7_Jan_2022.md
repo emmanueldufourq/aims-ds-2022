@@ -18,7 +18,7 @@ Lecture Plan
 
 16:20 to 16:40 watch lecture material (see below)
 
-16:30 to 17:00 Q&A
+16:40 to 17:00 Q&A
 
 Lecture Material
 ----------------

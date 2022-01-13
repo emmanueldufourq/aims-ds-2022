@@ -16,7 +16,11 @@ Regression tree practical due on the 6th January at 23:59. Download and submit a
 
 Multivariate regression practical due on the 10th January at 23:59. Download and submit a .ipynb file as per instructions emailed to you.
 
-Neural networks regression practical due on the X January at 23:59. Download and submit a .ipynb file as per instructions emailed to you.
+Neural networks regression practical due on the 24th January at 21:00. Download and submit a .ipynb file as per instructions emailed to you.
+
+Neural networks classification practical due on the 24th January at 21:00. Download and submit a .ipynb file as per instructions emailed to you.
+
+Convolutional neural network practical due on the 31st January at 21:00. Download and submit a .ipynb file as per instructions emailed to you.
 
 Class test
 ----------
